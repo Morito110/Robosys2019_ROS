@@ -14,5 +14,5 @@ GPLv3 license
     $ rosrun [pkg_name] Go.py
 
   
-## 動画URL(GoogleDrive & Twitter)
-
+## 動画URL(Youtube)
+https://youtu.be/9EoGjOJS7Z8
